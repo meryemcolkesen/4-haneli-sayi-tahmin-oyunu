@@ -75,7 +75,7 @@ Kullanıcı doğru sayıyı tahmin ettiğinde görünür. Doğru sayı ve tebrik
 • txtTahmin.GotFocus / LostFocus olayları ile placeholder efekti uygulanmıştır.<br>
 • Kullanıcı geçersiz giriş yaptığında MessageBox ile hata bildirimi gösterilir.<br>
 
-# 🚀 Geliştirici Notu
+# Bilgi
 • Bu küçük oyun, Görsel Programlama - 2 Dersi için bir ödev olarak hazırlandı<br>
 • Hem algoritma pratiği yapmak hem de Windows Forms deneyimi kazanmak için tasarlandı.<br>
 <div align="center">
