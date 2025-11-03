@@ -80,6 +80,6 @@ Kullanıcı doğru sayıyı tahmin ettiğinde görünür. Doğru sayı ve tebrik
 • Hem algoritma pratiği yapmak hem de Windows Forms deneyimi kazanmak için tasarlandı.<br>
 <div align="center">
   Buraya kadar okuduğunuz için teşekkür ederim :) <br>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="500" alt="Cute cat hugs GIF" />
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Cute cat hugs GIF" />
 </div>
 
