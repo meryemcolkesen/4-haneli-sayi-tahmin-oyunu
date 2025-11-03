@@ -1,6 +1,6 @@
 # 🎯 4 Haneli Sayı Tahmin Oyunu <br>
 Bu proje, C# Windows Forms kullanılarak geliştirilen basit ama eğlenceli bir sayı tahmin oyunudur. <br>
-Oyuncu, bilgisayarın rastgele oluşturduğu 4 haneli sayıyı sınırlı deneme hakkı içinde tahmin etmeye çalışır.
+Oyuncu, bilgisayarın rastgele oluşturduğu 4 haneli sayıyı 15 deneme hakkı bitmeden tahmin etmeye çalışır.
 <br>
 
 # 🧩 Özellikler 
@@ -79,6 +79,7 @@ Kullanıcı doğru sayıyı tahmin ettiğinde görünür. Doğru sayı ve tebrik
 • Bu küçük oyun, Görsel Programlama - 2 Dersi için bir ödev olarak hazırlandı<br>
 • Hem algoritma pratiği yapmak hem de Windows Forms deneyimi kazanmak için tasarlandı.<br>
 <div align="center">
+  Buraya kadar okuduğunuz için teşekkür ederim :) <br>
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="500" alt="Cute cat hugs GIF" />
 </div>
 
